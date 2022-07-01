@@ -1,0 +1,17 @@
+D:\Projetos\Api\ApiPadrao\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Api\ApiPadrao\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Projetos\Api\ApiPadrao\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\Projetos\Api\ApiPadrao\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projetos\Api\ApiPadrao\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Projetos\Api\ApiPadrao\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\Projetos\Api\ApiPadrao\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\Projetos\Api\ApiPadrao\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+D:\Projetos\Api\ApiPadrao\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\Projetos\Api\ApiPadrao\Infrastructure\bin\Debug\net5.0\Application.dll
+D:\Projetos\Api\ApiPadrao\Infrastructure\bin\Debug\net5.0\Domain.dll
+D:\Projetos\Api\ApiPadrao\Infrastructure\bin\Debug\net5.0\Application.pdb
+D:\Projetos\Api\ApiPadrao\Infrastructure\bin\Debug\net5.0\Domain.pdb
+D:\Projetos\Api\ApiPadrao\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+D:\Projetos\Api\ApiPadrao\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\Projetos\Api\ApiPadrao\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+D:\Projetos\Api\ApiPadrao\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
