@@ -17,3 +17,13 @@ D:\Projetos\Freela\ApiTesPlan\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.Asse
 D:\Projetos\Freela\ApiTesPlan\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 D:\Projetos\Freela\ApiTesPlan\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
 D:\Projetos\Freela\ApiTesPlan\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Projetos\Freela\ApiTestPlan\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Projetos\Freela\ApiTestPlan\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\Freela\ApiTestPlan\src\Api.Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projetos\Freela\ApiTestPlan\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\Projetos\Freela\ApiTestPlan\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Freela\ApiTestPlan\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Projetos\Freela\ApiTestPlan\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Projetos\Freela\ApiTestPlan\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\Freela\ApiTestPlan\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\Freela\ApiTestPlan\src\Api.Domain\obj\Debug\netcoreapp3.1\Domain.pdb
