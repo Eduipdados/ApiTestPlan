@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "geJ19SAqUytsMH/luUz/3YNRg2EubbYXyz0TKB4w5Wb3Z3LTfMEENPLzA+DWOIAwTJoCk+NyWCSS/+6V2Hl4EQ==",
+  "dgSpecHash": "4kKBAWGDGNHcz1dSP5qq4Cxl9Z1y9lnifZHCK+E4i72xLrQ1WIautKtS1OMKI6Cw2in5Wh7+es/vRk7ft5E/RA==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Api\\ApiPadrao\\Api\\Api.csproj",
+  "projectFilePath": "D:\\Projetos\\Freela\\ApiTestPlan\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduip\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\eduip\\.nuget\\packages\\canducci.pagination\\2.1.2\\canducci.pagination.2.1.2.nupkg.sha512",

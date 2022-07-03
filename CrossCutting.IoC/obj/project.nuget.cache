@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p7ZUuvB0N1/8cUfXSJdYW069xdYvmDsVUjwEGUWo0x3F691AXiwL5h4TcH4pdVctqnDHuuwIgpnLn7aOyaFraw==",
+  "dgSpecHash": "0Ew2AixVgVQaaxxE2hz1V3UXaNUZkHtz4n7zfg/u1NN3fpVfpmrsnPV3JAhJLruiCzPgZBHE8d025r8tsH/8CA==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Api\\ApiPadrao\\CrossCutting.IoC\\CrossCutting.IoC.csproj",
+  "projectFilePath": "D:\\Projetos\\Freela\\ApiTestPlan\\CrossCutting.IoC\\CrossCutting.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduip\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\eduip\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",

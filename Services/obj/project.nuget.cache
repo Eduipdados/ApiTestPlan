@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0pXhjWxJiDXjX+99e4mhFts+8jTd7C/jiLiQVjcTp5I6g/8NhJljHzeoYKo/aF3X9wfrj69M4pNIXLDeaQmn7Q==",
+  "dgSpecHash": "H6Pe2yBCuMmGuED2AA9fwf7b1BipHJ0IK81Nj3Bh6MnFp6CLkacpl77zvHoiAuIV8fP/oy618L6u8DVhAkps5g==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Api\\ApiPadrao\\Services\\Services.csproj",
+  "projectFilePath": "D:\\Projetos\\Freela\\ApiTestPlan\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduip\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\eduip\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",

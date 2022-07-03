@@ -7912,11 +7912,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\Api\\ApiPadrao\\Api\\Api.csproj",
+      "projectUniqueName": "D:\\Projetos\\Freela\\ApiTestPlan\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\Api\\Api.csproj",
+      "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\eduip\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\Api\\ApiPadrao\\Api\\obj\\",
+      "outputPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7937,11 +7937,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projetos\\Api\\ApiPadrao\\CrossCutting.IoC\\CrossCutting.IoC.csproj": {
-              "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\CrossCutting.IoC\\CrossCutting.IoC.csproj"
+            "D:\\Projetos\\Freela\\ApiTestPlan\\CrossCutting.IoC\\CrossCutting.IoC.csproj": {
+              "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\CrossCutting.IoC\\CrossCutting.IoC.csproj"
             },
-            "D:\\Projetos\\Api\\ApiPadrao\\Services\\Services.csproj": {
-              "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\Services\\Services.csproj"
+            "D:\\Projetos\\Freela\\ApiTestPlan\\Services\\Services.csproj": {
+              "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Services\\Services.csproj"
             }
           }
         }

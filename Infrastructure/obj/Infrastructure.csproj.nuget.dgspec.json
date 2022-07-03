@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Api\\ApiPadrao\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\Projetos\\Freela\\ApiTestPlan\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Api\\ApiPadrao\\Application\\Application.csproj": {
+    "D:\\Projetos\\Freela\\ApiTestPlan\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Api\\ApiPadrao\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Projetos\\Freela\\ApiTestPlan\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\Application\\Application.csproj",
+        "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\eduip\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Api\\ApiPadrao\\Application\\obj\\",
+        "outputPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Projetos\\Api\\ApiPadrao\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\Domain\\Domain.csproj"
+              "D:\\Projetos\\Freela\\ApiTestPlan\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Domain\\Domain.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "D:\\Projetos\\Api\\ApiPadrao\\Domain\\Domain.csproj": {
+    "D:\\Projetos\\Freela\\ApiTestPlan\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Api\\ApiPadrao\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Projetos\\Freela\\ApiTestPlan\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\eduip\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Api\\ApiPadrao\\Domain\\obj\\",
+        "outputPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -138,14 +138,14 @@
         }
       }
     },
-    "D:\\Projetos\\Api\\ApiPadrao\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Projetos\\Freela\\ApiTestPlan\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Api\\ApiPadrao\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Projetos\\Freela\\ApiTestPlan\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\eduip\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Api\\ApiPadrao\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,11 +166,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Projetos\\Api\\ApiPadrao\\Application\\Application.csproj": {
-                "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\Application\\Application.csproj"
+              "D:\\Projetos\\Freela\\ApiTestPlan\\Application\\Application.csproj": {
+                "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Application\\Application.csproj"
               },
-              "D:\\Projetos\\Api\\ApiPadrao\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\Domain\\Domain.csproj"
+              "D:\\Projetos\\Freela\\ApiTestPlan\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Domain\\Domain.csproj"
               }
             }
           }

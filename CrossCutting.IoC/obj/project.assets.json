@@ -5697,11 +5697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\Api\\ApiPadrao\\CrossCutting.IoC\\CrossCutting.IoC.csproj",
+      "projectUniqueName": "D:\\Projetos\\Freela\\ApiTestPlan\\CrossCutting.IoC\\CrossCutting.IoC.csproj",
       "projectName": "CrossCutting.IoC",
-      "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\CrossCutting.IoC\\CrossCutting.IoC.csproj",
+      "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\CrossCutting.IoC\\CrossCutting.IoC.csproj",
       "packagesPath": "C:\\Users\\eduip\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\Api\\ApiPadrao\\CrossCutting.IoC\\obj\\",
+      "outputPath": "D:\\Projetos\\Freela\\ApiTestPlan\\CrossCutting.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5722,14 +5722,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Projetos\\Api\\ApiPadrao\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\Domain\\Domain.csproj"
+            "D:\\Projetos\\Freela\\ApiTestPlan\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Domain\\Domain.csproj"
             },
-            "D:\\Projetos\\Api\\ApiPadrao\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\Infrastructure\\Infrastructure.csproj"
+            "D:\\Projetos\\Freela\\ApiTestPlan\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Infrastructure\\Infrastructure.csproj"
             },
-            "D:\\Projetos\\Api\\ApiPadrao\\Services\\Services.csproj": {
-              "projectPath": "D:\\Projetos\\Api\\ApiPadrao\\Services\\Services.csproj"
+            "D:\\Projetos\\Freela\\ApiTestPlan\\Services\\Services.csproj": {
+              "projectPath": "D:\\Projetos\\Freela\\ApiTestPlan\\Services\\Services.csproj"
             }
           }
         }

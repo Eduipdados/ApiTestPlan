@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qFCZ7QKVlGKwIXjCtAkO0sVqiVVyiOaR/KF0n//Eb0BJf5CRB2oOCS3L1+K9QcqOpDmph8J+qMdK2nKF0U4aeQ==",
+  "dgSpecHash": "CGOBkOJIiLQlHyFD/je/4i6XHXzyXSkymDKseHkzdGSmhJ95PwFGKLaHBnE/Rmn5LyobeM/J3JV5JUgCxQczkQ==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Api\\ApiPadrao\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\Projetos\\Freela\\ApiTestPlan\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eduip\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\eduip\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

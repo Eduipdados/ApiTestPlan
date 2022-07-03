@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aEyBwC/wKWgEuRg3W/b6cDrPTbPgvAEYmTwa9pvbFIEvUgIO18ftLsjWXLuoCpck+0Hdzz7d826QkYvIzYL/4w==",
+  "dgSpecHash": "aSpOBffBNtDuk2Id43QcxU4oEMgAlJsiTgLGy+vEhBNfa6MJWl00BtZhZpK7JRrVhr2lnY9vd18RFPsQcfiK5A==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Api\\ApiPadrao\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Projetos\\Freela\\ApiTestPlan\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
